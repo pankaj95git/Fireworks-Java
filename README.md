@@ -1,20 +1,18 @@
-# 🎆 Fireworks-Java
+# Fireworks-Java
 
-🔥 A **Java program** that creates a **beautiful fireworks animation** using `JPanel` and `Timer`.  
-
----
-
-## 🚀 Features
-✅ **Real-time animation**  
-✅ **Smooth color fading & gravity effect**  
-✅ **Randomized fireworks explosions**  
-✅ **Uses Java Swing & Timer for smooth performance**  
+A Java program that creates a beautiful fireworks animation using 'JPanel' and 'Timer'.  
 
 ---
 
-## 🎯 How to Install & Run
+# Features
+1. Real-time animation.
+2. Smooth color fading & gravity effect.
+3. Randomized fireworks explosions.
+4. Uses Java Swing & Timer for smooth performance.  
 
-### 📥 **Clone this Repository**
+---
+
+How to Install & Run
+**Clone this Repository**
 If you have Git installed, open a terminal and run:  
-```sh
 git clone https://github.com/pankaj95git/Fireworks-Java.git
